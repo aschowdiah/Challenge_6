@@ -6,7 +6,6 @@ The following code aims at providing a solution to finding viable investment pro
 ## Technologies Used ##
 - Python 3.9
 - pandas
-- 
 - Jupyter Notebook
 ## Installation Guide for Libraries Used 
 - pip install os
